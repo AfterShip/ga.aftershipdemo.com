@@ -1,9 +1,8 @@
 # ga.aftershipdemo.com
 This is demo site for GA demo on 2018-01-19
 
+http://www.huodongxing.com/event/8474882293500
 
-# AUTHOR
-Free-Template.co
 
 # LICENSE
 Under Creative Commons 3.0 (free-template.co/license)
@@ -11,6 +10,8 @@ Twitter: https://twitter.com/Free_Templateco
 
 
 # CREDITS
+Template
+Free-Template.co
 
 Bootstrap
 http://getbootstrap.com/
